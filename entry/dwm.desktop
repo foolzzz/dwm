@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=dwm
+Comment=Just_A_WM
+Exec=/usr/local/bin/dwm.sh
+Icon=/usr/local/bin/dwm.png
+TryExec=/usr/local/bin/dwm.sh
+Type=Xsession
