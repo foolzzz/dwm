@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=dwm
 Comment=Just_A_WM
-Exec=/usr/local/bin/dwm.sh
+Exec=/usr/local/bin/dwm
 Icon=/usr/local/bin/dwm.png
-TryExec=/usr/local/bin/dwm.sh
+TryExec=/usr/local/bin/dwm
 Type=Xsession
